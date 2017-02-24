@@ -10,7 +10,7 @@ import (
 	"net/smtp"
 	"strings"
 
-	"github.com/SparkPost/gosparkpost/helpers/loadmsg"
+	"github.com/kitwalker12/gosparkpost/helpers/loadmsg"
 )
 
 var filename = flag.String("file", "", "path to raw email")

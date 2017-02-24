@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	sp "github.com/SparkPost/gosparkpost"
-	"github.com/SparkPost/gosparkpost/events"
-	"github.com/SparkPost/gosparkpost/test"
+	sp "github.com/kitwalker12/gosparkpost"
+	"github.com/kitwalker12/gosparkpost/events"
+	"github.com/kitwalker12/gosparkpost/test"
 )
 
 func TestMessageEvents(t *testing.T) {

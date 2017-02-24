@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	sp "github.com/SparkPost/gosparkpost"
+	sp "github.com/kitwalker12/gosparkpost"
 )
 
 // Build a native Go Template structure from a JSON string

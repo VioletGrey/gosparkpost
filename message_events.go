@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/SparkPost/gosparkpost/events"
+	"github.com/kitwalker12/gosparkpost/events"
 )
 
 // https://www.sparkpost.com/api#/reference/message-events

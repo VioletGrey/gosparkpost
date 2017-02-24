@@ -23,7 +23,7 @@ Install from GitHub using `go get`_:
 
 .. code-block:: bash
 
-    $ go get github.com/SparkPost/gosparkpost
+    $ go get github.com/kitwalker12/gosparkpost
 
 .. _go get: https://golang.org/cmd/go/#hdr-Download_and_install_packages_and_dependencies
 
@@ -47,7 +47,7 @@ Here at SparkPost, our "send some messages" api is called the `transmissions API
       "log"
       "os"
 
-      sp "github.com/SparkPost/gosparkpost"
+      sp "github.com/kitwalker12/gosparkpost"
     )
 
     func main() {
@@ -105,7 +105,7 @@ TL;DR:
 
 #. Check for open issues or open a fresh issue to start a discussion around a feature idea or a bug.
 #. Fork `the repository`_.
-#. Go get the original code - ``go get https://github.com/SparkPost/gosparkpost``
+#. Go get the original code - ``go get https://github.com/kitwalker12/gosparkpost``
 #. Add your fork as a remote - ``git remote add fork http://github.com/YOURID/gosparkpost``
 #. Make your changes in a branch on your fork
 #. Write a test which shows that the bug was fixed or that the feature works as expected.
@@ -114,7 +114,7 @@ TL;DR:
 
 More on the `contribution process`_
 
-.. _`the repository`: https://github.com/SparkPost/gosparkpost
+.. _`the repository`: https://github.com/kitwalker12/gosparkpost
 .. _AUTHORS: AUTHORS.rst
 .. _`contribution process`: CONTRIBUTING.md
 

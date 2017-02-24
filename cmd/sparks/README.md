@@ -13,7 +13,7 @@ It's similar in function to [swaks](http://www.jetmore.org/john/code/swaks/), wh
 ### Installation
 
     $ go get git@github.com:SparkPost/gosparkpost
-    $ cd $GOPATH/src/github.com/SparkPost/gosparkpost/cmd/sparks
+    $ cd $GOPATH/src/github.com/kitwalker12/gosparkpost/cmd/sparks
     $ go build && go install
 
 ### Config

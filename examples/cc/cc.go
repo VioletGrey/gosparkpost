@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	sp "github.com/SparkPost/gosparkpost"
+	sp "github.com/kitwalker12/gosparkpost"
 )
 
 func main() {

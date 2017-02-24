@@ -9,7 +9,7 @@ propose changes to this document in a pull request.
 
 ## Submitting Issues
 
-* You can create an issue [here](https://github.com/sparkpost/gosparkpost/issues/new), but
+* You can create an issue [here](https://github.com/kitwalker12/gosparkpost/issues/new), but
   before doing that please read the notes below on debugging and submitting issues,
   and include as many details as possible with your report.
 * Include the version of gosparkpost you are using.
@@ -19,8 +19,8 @@ propose changes to this document in a pull request.
 ## Local development
 
 * Fork this repository
-* Clone the _original source_  using ``go get https://github.com/SparkPost/gosparkpost``
-* `cd $GOPATH/src/github.com/SparkPost/gosparkpost`
+* Clone the _original source_  using ``go get https://github.com/kitwalker12/gosparkpost``
+* `cd $GOPATH/src/github.com/kitwalker12/gosparkpost`
 * Add a remote pointing to your fork - ``git remote add fork https://github.com/YOUR_ID/gosparkpost``
 * Create a branch - ``git checkout -b fix-or-feature``
 * Write code!

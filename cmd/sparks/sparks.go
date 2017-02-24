@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	sp "github.com/SparkPost/gosparkpost"
+	sp "github.com/kitwalker12/gosparkpost"
 )
 
 type Strings []string
